@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é uma evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+NLW é uma evento exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
